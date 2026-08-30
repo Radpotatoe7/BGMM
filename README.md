@@ -5,5 +5,7 @@ use it in hyprland config as an exec_once for maximum slickness.
 
 # Requirements
 Linux (duh its a .sh file)
+
 playerctl for actually controlling the player
+
 jq for helping in writing config and storing values in JSON files.
