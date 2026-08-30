@@ -8,7 +8,7 @@
 #
 # Requirements (Arch or any distro (hopefully)):
 #   playerctl = for actually controlling your music player
-#   jq = 
+#   jq = for json editing and storing
 #-----------------------
 # First run: walks you through picking your player and detecting its real
 # audio stream name(s), then saves that to a config file so future runs skip straight to watching.
